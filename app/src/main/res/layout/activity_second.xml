@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SecondActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:justificationMode="inter_word"
+        android:text="HARI MOHAN RAI graduated in Electronics and Communication Engineering from Vinayaka Mission’s University, Salem, Tamilnadu in 2009. He received his Master of Engineering in Electrical Engineering (Control System) from Government Engineering College, Jabalpur in 2012, where he was awarded a Gold Medal. He completed his Ph.D. from the Indian Institute of Mines, Dhanbad (ISM, Dhanbad) in the Department of Electrical and Electronics Engineering. His doctoral research focused on the early detection and diagnosis of critical diseases through the analysis of bio-signals using Neuro-Fuzzy and Hybrid Neural classifier techniques.
+Following his academic pursuits, HARI MOHAN RAI served as an Assistant Professor in the Department of Electronics and Communication Engineering at Dronacharya College of Engineering, Gurgaon, India, for 2.5 years. Currently, he holds the position of Assistant Professor in the Department of Electronics and Communication Engineering at Krishna Engineering College, Ghaziabad, since July 2015.
+Throughout his career, HARI MOHAN RAI has authored numerous papers published in various National and International journals. Additionally, he contributes as a Reviewer for esteemed publications including Measurement Journal (Elsevier), International Journal of Engineering (IJE), Computers and Electrical Engineering (Elsevier), International Journal of Scientific Engineering and Technology (IJSET), International Journal of Engineering Research and Technology (IJERT), and Majlesi Journal of Electrical Engineering (MJEE).
+Furthermore, he actively participates as a member of various international societies such as IEEE Professional Member, The Society of Digital Information and Wireless Communications (SDIWC), and International Association of Engineers (IAENG). His expertise lies in Bio signal processing, Control Systems, and Image Processing." />
+    </ScrollView>
+
+</LinearLayout>
